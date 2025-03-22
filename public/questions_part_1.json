@@ -1,0 +1,127 @@
+{
+	"Campus Life": [
+		"What are the advantages and disadvantages of students evaluating professors at the end of the semester?",
+		"Which is the best way to learn about a new campus: personal tour, detailed map, or group tour?",
+		"Which type of club would you choose to join: academic, sports, or volunteer?",
+		"If required to volunteer at the school library, would you rather stack books, read to children, or help with internet searches?",
+		"Which apartment would you prefer: near campus but expensive or far and cheaper?",
+		"Do you agree or disagree: Female and male students should live in separate residence halls?",
+		"If you could choose one way to commute to school, would you prefer a bicycle, train, or car?",
+		"Which roommate characteristic is most important: cleanness, friendliness, or quietness?",
+		"What are the advantages and disadvantages of watching TV in dorms?",
+		"Do you agree or disagree: Students should be allowed to bring cellphones to school?",
+		"Is it better to choose a future career before university or after taking some classes?",
+		"Would you prefer to learn about campus life from older students or an introductory course?"
+	],
+	"Education": [
+		"Which method of learning is best for you: doing, reading, or listening?",
+		"Would you prefer a traditional class or one with pre-recorded lectures?",
+		"Do you agree or disagree: It's better to increase science and technology hours at the expense of art and music?",
+		"Which is more effective for learning: exams or projects?",
+		"What are the advantages and disadvantages of surprise quizzes?",
+		"How would you prefer to work on a project: alone, with classmates, or with a tutor?",
+		"What format would you choose for a presentation: act a play scene, review a novel, or read poetry?",
+		"Do you agree or disagree: Young people need to learn domestic skills?",
+		"Is it better to start learning a language as an infant, child, or teenager?",
+		"Do you agree or disagree: The best way to learn a foreign language is to speak with native speakers?",
+		"Do you agree or disagree: All teenagers should take a world history class?",
+		"Would you prefer a policy allowing or forbidding cellphone use in class?"
+	],
+	"Parenting": [
+		"Do you think it is a good idea for parents to buy cell phones for their children?",
+		"Do you agree or disagree: Parents should read their children’s text messages?",
+		"Do you agree or disagree: Children who use electronic devices earn better grades?",
+		"What are the advantages and disadvantages of young children spending a lot of time in sports?",
+		"Should parents be allowed to educate their children at home or must they attend school?",
+		"Do you agree or disagree: Video games offer more benefits than drawbacks to children?",
+		"Which do you believe: Pets teach responsibility or distract from important tasks?",
+		"Do you agree or disagree: Parents should avoid public school and choose private school if money is not an issue?",
+		"Which do you believe: Television harms or helps children?"
+	],
+	"People": [
+		"What are the advantages and disadvantages of having a strong leader in your group?",
+		"Do you agree or disagree: Co-workers make the best friends?",
+		"Who would you prefer as a roommate: a friend, a family member, or a stranger?",
+		"Is it better to address problems with humor or a serious tone?",
+		"Would you give bad news in a private room or a loud public place?",
+		"Who gives the most useful career advice: family, friends, or teachers?"
+	],
+	"Community and Government": [
+		"To improve the community, should the government build a park, library, or pool?",
+		"What are the advantages and disadvantages of opening an elementary school on your street?",
+		"What are the advantages and disadvantages of opening a new shopping center in your neighborhood?",
+		"Should you donate to a small local charity or a large international organization?",
+		"Which new practical course should the school create: social media, money-saving, or cooking?",
+		"Which has the greatest impact on environmental protection: government regulations, awareness groups, or individual effort?",
+		"Which background is best for a national leader: business, legal, or military?"
+	],
+	"Science and Technology": [
+		"Should scientists have freedom in experiments or be limited in their studies?",
+		"Do you agree or disagree: Technology has harmed relationships between friends and family?",
+		"Which technology has most impacted students: digital books, online classes, or smartphones?",
+		"What are the advantages and disadvantages of giving smartphones to teenagers?",
+		"Would you buy a new product immediately or wait and decide later?",
+		"Do you agree or disagree: Robots will replace humans at work?",
+		"Do you agree or disagree: More time on social media leads to less happiness?",
+		"What are the advantages and disadvantages of having many social media friends?",
+		"Which environmental policy should a school implement: more shuttles, more recycling, or more local food?",
+		"Do you agree or disagree: Bicycles will be replaced by more convenient transportation?",
+		"What is your opinion: Will libraries disappear or always be needed?",
+		"Do you agree or disagree: Entertainment technology reduces book reading?",
+		"Do you agree or disagree: Stopping meat consumption helps climate change?",
+		"Would you prefer a self-driving car or one you drive yourself?"
+	],
+	"Work": [
+		"Do you agree or disagree: People must love their jobs to be happy?",
+		"Would you prefer to work one job for life or switch every five years?",
+		"Do you agree or disagree: Success only comes from hard work?",
+		"Do you agree or disagree: Teenagers should work while in school to be responsible?",
+		"Do you agree or disagree: Working for a large company is better than a small one?",
+		"Would you prefer a higher-paying job with long hours or a lower-paying one with short hours?",
+		"Which company would you prefer: one with interesting projects and little vacation, or boring work and long vacations?",
+		"Do you prefer working early or late in the day?",
+		"Is it a good idea to work with someone with very different opinions?",
+		"What are the advantages and disadvantages of having a strict boss?",
+		"Do you agree or disagree: Work affects happiness more than social life?",
+		"What are the advantages and disadvantages of having a part-time job while at university?",
+		"Would you prefer to work alone at home or with others in an office?",
+		"Do you agree or disagree: Having your own small business is better than working for a company?",
+		"If you had to volunteer, would you read to seniors, work in an animal shelter, or feed the homeless?"
+	],
+	"Money": [
+		"If you had extra money, would you spend it right away or save it?",
+		"Is it better to buy products or invest in experiences?",
+		"If given $10,000, would you spend it, save it, or invest it?"
+	],
+	"Travel": [
+		"Do you prefer relaxing vacations or sightseeing and activities?",
+		"Would you rather travel alone or with your best friend?",
+		"Do you prefer to plan trips or explore spontaneously?"
+	],
+	"Lifestyle": [
+		"Do you prefer parties and meeting new people or staying at home?",
+		"If you had to live in one place forever, would you choose the city, suburbs, or countryside?",
+		"Would you prefer to live in the mountains or on the beach?",
+		"Do you agree or disagree: Living with your best friend is better than living alone?",
+		"Do you agree or disagree: People should not take pictures of strangers without permission?",
+		"Would you prefer to buy a used car or a new car?",
+		"Is it better to sleep six or eight hours a night?",
+		"Do you agree or disagree: Children and teens should not use social media before 18?",
+		"Do you prefer home-cooked meals or eating out/takeout?"
+	],
+	"Entertainment": [
+		"Do you prefer entertainment or educational programs on TV?",
+		"Would you prefer to watch movies alone or with a friend?",
+		"Do you agree or disagree: Celebrities should be role models for children?",
+		"Do you prefer new books or used books?",
+		"Do you prefer fiction or nonfiction books and why?",
+		"If you were to learn a new hobby, would you study a language, learn an instrument, or join a sports team?"
+	],
+	"Volunteering": [
+		"To help the homeless, would you prefer more community volunteering or government income support?",
+		"For a new community garden, would you donate money, plant vegetables, or sell them?",
+		"Do you agree or disagree: Students should be required to volunteer 40 hours per year?",
+		"What are the advantages and disadvantages of volunteering to help the homeless?",
+		"Do you agree or disagree: All university students should be required to volunteer to graduate?"
+	]
+}

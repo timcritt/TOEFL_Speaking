@@ -1,0 +1,35 @@
+.tag_item {
+	margin: 4px;
+	padding: 2px 16px;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	border-radius: 21px;
+	border: solid 2px #bbb;
+	font-family: arial;
+	font-size: 0.93rem;
+	font-weight: 500;
+	line-height: 30px;
+	text-align: center;
+	color: #bbbbbb;
+	background-color: #f9fafa;
+	cursor: pointer;
+	transition: 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+		border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+		color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.tag_item:focus {
+	outline: none;
+}
+.tag_item:hover {
+	color: #4444c0;
+	border-color: #9494ef;
+	transform: translateX(1px) translateY(1px) scale(1.05);
+}
+
+.tag_item_selected {
+	color: #4444c0;
+	border-color: #9494ef;
+	background-color: white;
+	border-width: 2px;
+}
