@@ -61,11 +61,11 @@ header {
 }
 
 .tags_container {
-	margin: 40px;
+	margin: 30px;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-	width: 700px;
+	max-width: 700px;
 }
 
 /******************************** toggle switch ********************************/

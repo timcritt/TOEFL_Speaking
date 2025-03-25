@@ -20,9 +20,16 @@ function App() {
 				throw new Error(`HTTP error! status: ${response.status}`);
 
 			const data = await response.json();
-			setTopicData(data); // Save full data
+			console.log("Fetched data:", data);
+
+			setTopicData(data);
 			const keys = Object.keys(data);
-			setTopics(keys); // Just topic names
+			setTopics(keys);
+
+			if (keys.length > 0) {
+				setCurrentTopic(keys[0]); // Set current topic to the first one
+				setQuestion(data[keys[0]][0]); // Set the first question directly
+			}
 		} catch (error) {
 			console.error("Failed to load JSON:", error);
 		}
@@ -49,7 +56,6 @@ function App() {
 
 	useEffect(() => {
 		getTopics();
-		getQuestion(currentTopic);
 	}, []);
 
 	return (
