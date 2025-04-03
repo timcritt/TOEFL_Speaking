@@ -26,7 +26,7 @@ header {
 	margin: 0 auto;
 	max-width: 1080px;
 	padding: 15px;
-	padding: 50px 150px;
+
 	width: 100%;
 }
 
@@ -46,7 +46,6 @@ header {
 .question {
 	font-size: 1.8rem;
 	margin: 1em 0;
-	height: 6ch;
 }
 
 .time_instructions {

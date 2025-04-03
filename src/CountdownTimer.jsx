@@ -45,7 +45,7 @@ const CountdownTimer = ({ time }) => {
 
 	// Progress bar: based on elapsed time from `startTimestamp`
 
-	const percentage = currentTime > 100 ? (currentTime / time) * 100 : 0;
+	const percentage = currentTime >= 100 ? (currentTime / time) * 100 : 0;
 
 	const formatTime = () => {
 		const totalSeconds = Math.round(currentTime / 1000);
