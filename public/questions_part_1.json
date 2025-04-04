@@ -207,7 +207,11 @@
 			"question": "Would you prefer to have a higher-paying job with longer hours or a lower-paying job with shorter hours? \u200b"
 		},
 		{
-			"question": "Which of the following companies would you prefer to work for? A company that offers you challenging and interesting projects but very few vacation days or a company that offers you a job with boring work each day but long vacations each year?"
+			"question": "Which of the following companies would you prefer to work for?",
+			"choices": [
+				"A company that offers you challenging and interesting projects but very few vacation days",
+				"a company that offers you a job with boring work each day but long vacations each year"
+			]
 		},
 		{
 			"question": "Some people prefer to get up early in the morning and start the day\u2019s work. Others prefer to get up later in the day and work until late at night. Which do you prefer? \u200b"
@@ -216,7 +220,7 @@
 			"question": "Consider a situation where you are asked by your supervisor to participate in a group project at work. Your supervisor wants you to work with someone who has opinions that are very different than yours. Moreover, they feel very strongly about these opinions. Do you think that working with this person is a good idea? \u200b"
 		},
 		{
-			"question": "Some bosses are more strict with their employees, while others are more laidback. What are the advantages and disadvantages of having a strict boss?"
+			"question": "Some bosses are more strict with their employees, while others are more laidback. Which is best?"
 		},
 		{
 			"question": "Do you agree or disagree with the following statement: Work has a bigger impact on your overall happiness than your social life. \u200b"
