@@ -69,7 +69,16 @@ function App() {
 					<section className={styles.section}>
 						{question && (
 							<div style={{ marginTop: "2rem" }}>
-								<p className={styles.question}>{question}</p>
+								<p className={styles.question}>{question.question}</p>
+								{question.choices && (
+									<ul className={styles.choices}>
+										{question.choices.map((choice, index) => (
+											<li key={index} className={styles.option}>
+												{choice}
+											</li>
+										))}
+									</ul>
+								)}
 							</div>
 						)}
 						<hr />
@@ -102,17 +111,17 @@ function App() {
 							</div>
 						</fieldset>
 					</section>
-					<div className={styles.tags_container}>
-						{topics.map((topic) => (
-							<Tag
-								key={topic}
-								tagName={topic}
-								handleSetTag={handleTopicChange}
-								selected={currentTopic === topic}
-							/>
-						))}
-					</div>
 				</article>
+				<aside className={styles.tags_container}>
+					{topics.map((topic) => (
+						<Tag
+							key={topic}
+							tagName={topic}
+							handleSetTag={handleTopicChange}
+							selected={currentTopic === topic}
+						/>
+					))}
+				</aside>
 			</main>
 		</>
 	);

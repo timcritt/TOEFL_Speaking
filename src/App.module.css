@@ -1,7 +1,7 @@
 header {
 	background-color: lightgray;
-	height: 50px;
 	padding: 5px;
+	text-align: center;
 }
 
 .topic_select {
@@ -48,6 +48,21 @@ header {
 	margin: 1em 0;
 }
 
+.choices {
+	font-size: 1.8rem;
+}
+
+/*media query for mobile devices*/
+@media (max-width: 768px) {
+	.question {
+		font-size: 1.4rem;
+		margin: 0;
+	}
+	.choices {
+		font-size: 1.4rem;
+	}
+}
+
 .time_instructions {
 	font-size: 1rem;
 	margin: 1em 0;
@@ -60,10 +75,10 @@ header {
 }
 
 .tags_container {
-	margin: 30px;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
+	margin: auto;
 	max-width: 700px;
 }
 
@@ -81,7 +96,7 @@ header {
 }
 
 .switch_field input {
-	position: absolute !important;
+	position: absolute;
 	clip: rect(0, 0, 0, 0);
 	height: 1px;
 	width: 1px;
@@ -108,8 +123,9 @@ header {
 }
 
 .switch_field input:checked + label {
-	background-color: #a5dc86;
+	background-color: #7ea5f0;
 	box-shadow: none;
+	color: white;
 }
 
 .switch_field label:first-of-type {

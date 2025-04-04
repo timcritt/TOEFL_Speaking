@@ -63,6 +63,9 @@ const CountdownTimer = ({ time }) => {
 
 	return (
 		<div className={styles.container}>
+			<div className={styles.time_display}>
+				{currentTime > 100 ? formatTime() : "time up"}
+			</div>
 			<div className={styles.timer_bar_container}>
 				<div className={styles.timer_bar_outer}>
 					<div
@@ -70,10 +73,6 @@ const CountdownTimer = ({ time }) => {
 						style={{ width: `${percentage}%` }}
 					></div>
 				</div>
-			</div>
-
-			<div className={styles.time_display}>
-				{currentTime > 100 ? formatTime() : "time up"}
 			</div>
 
 			<div className={styles.button_container}>
