@@ -68,7 +68,7 @@ function App() {
 					<h2>Question 1 of 4</h2>
 					<section className={styles.section}>
 						{question && (
-							<div>
+							<div className={styles.question_container}>
 								<p className={styles.question}>{question.question}</p>
 								{question.choices && (
 									<ul className={styles.choices}>

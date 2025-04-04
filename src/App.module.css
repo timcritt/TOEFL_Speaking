@@ -43,6 +43,10 @@ header {
 	background-color: gray;
 }
 
+.question_container {
+	min-height: 12lh;
+}
+
 .question {
 	font-size: 1.8rem;
 	margin: 1em 0;
