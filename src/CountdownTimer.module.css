@@ -55,6 +55,19 @@
 	font-size: 1.7rem;
 }
 
+/*media query for mobile devices*/
+@media (max-width: 768px) {
+	.timer_bar_container {
+		padding: 10px 20px;
+	}
+	.timer_bar {
+		height: 8px;
+	}
+	.time_display {
+		font-size: 1.5rem;
+	}
+}
+
 .btn {
 	font-size: small;
 	padding: 0.2rem 0.2rem 0rem 0.2rem;
